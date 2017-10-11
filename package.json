@@ -1,0 +1,14 @@
+{
+  "name": "tap-frontend",
+  "version": "0.0.1",
+  "description": "Frontend for TAP",
+  "author": "Jacob Leach <leach.jacob@gmail.com>",
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "gulp": "gulpjs/gulp#4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-live-server": "^0.0.31",
+    "gulp-sourcemaps": "^2.6.1"
+  }
+}
